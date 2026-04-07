@@ -42,7 +42,7 @@ Todos os pinos e constantes de hardware são definidos em `config.h`.
 
 ## Estrutura do projeto
 
-Arquivos principais (diretório raiz + `src/` e `inc/`):
+Arquivos principais
 
 - `main.c` – loop principal, integração de todos os módulos.
 - `config.h` – mapeamento de pinos, constantes de temporização, limites térmicos e credenciais de Wi‑Fi/ThingsBoard.
