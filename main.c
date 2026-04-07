@@ -27,7 +27,6 @@ uint32_t g_now_ms = 0; // Variável para armazenar o tempo atual em milissegundo
 uint32_t g_next_input_ms = 0; // Variável para armazenar o próximo tempo de entrada em milissegundos
 uint32_t g_lid_open_since_ms = 0; // Variável para armazenar o tempo em que a tampa foi aberta
 
-// Variável "fantasma" mantida para o debug_log.c compilar
 bool g_btn_a_stable = false; // Variável para controle de estabilidade do botão A
 
 // Entradas e processo
